@@ -38,8 +38,3 @@ This project involved comprehensive system testing of the Login and Sign-up func
 
 ## Conclusion
 The system testing of the Login and Sign-up functionalities has been successfully completed, with all test cases passing. The system demonstrated strong performance, error handling, and security, making it ready for deployment. Further testing is recommended under varied network conditions and device responsiveness to ensure comprehensive coverage.
-
-## Contact
-For any queries or further information, feel free to contact me at:
-- **Email**: sachenemat1229@gmail.com
-- **LinkedIn**: [Nemat Sache](https://www.linkedin.com/in/nemat-sache/)
