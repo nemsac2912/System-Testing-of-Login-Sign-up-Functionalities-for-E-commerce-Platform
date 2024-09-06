@@ -1,4 +1,4 @@
-# System Testing of Login & Sign-up Functionalities for E-commerce Platform
+# Testing of Login & Sign-up Functionalities' Testing for E-commerce Platform
 
 ## Project Overview
 This project involved comprehensive system testing of the Login and Sign-up functionalities on an e-commerce platform. The testing process included the development and execution of test cases covering functional, non-functional, and negative scenarios to ensure robust performance and security of the platform's authentication features.
